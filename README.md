@@ -5,4 +5,4 @@ The data set was downloaded from this website :- https://vincentarelbundock.gith
 
 This repository was done to implement my learnings about the machine learning algorithms.
 
-#### Any kind of insights and changes are highly appreciated. 
+#### Any kind of insights and chas are highly appreciated. 
