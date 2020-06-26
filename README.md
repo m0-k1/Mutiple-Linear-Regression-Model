@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-Model
+# Multiple Linear Regression Model
 Using Multiple Linear Regression model to predict the consumption of fuel by a car.
 
 The data set was downloaded from this website :- https://vincentarelbundock.github.io/Rdatasets/datasets.html
