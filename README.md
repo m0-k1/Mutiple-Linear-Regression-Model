@@ -1,3 +1,5 @@
+<img src="https://github.com/favicon.ico" width="48">
+
 # Multiple Linear Regression Model
 Using Multiple Linear Regression model to predict the consumption of fuel by a car.
 
